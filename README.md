@@ -60,5 +60,3 @@ Feel free to submit issues, fork the repository, and create pull requests for im
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-**Enjoy managing your reminders with a stylish and modern application!**
