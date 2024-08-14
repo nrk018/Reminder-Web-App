@@ -2,6 +2,9 @@
 
 A modern and minimalist reminder application to manage your tasks effectively. The app includes a typewriter effect for the title, a Flatpickr calendar for selecting deadlines, and persistent task storage using localStorage.
 
+![image](https://github.com/user-attachments/assets/979a2192-5e94-4a4e-8852-c5467220ce55)
+
+
 ## Features
 
 - **Typewriter Effect:** The title animates with a typewriter effect and blinking cursor for a dynamic visual appeal.
