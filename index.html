@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reminder App</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h2 class="typewriter">Reminders App</h2>
+        <form id="form">
+            <label for="taskName">Reminder Name:</label>
+            <input type="text" id="taskName" placeholder="Enter reminder name">
+            
+            <label for="description">Notes:</label>
+            <input type="text" id="description" placeholder="Enter notes">
+            
+            <label for="deadline">Deadline:</label>
+            <input type="text" id="deadline" placeholder="Set a deadline">
+            
+            <button id="submit">Add</button>
+        </form>
+        
+        <ul id="list"></ul>
+    </div>
+</body>
+</html>
